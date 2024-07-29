@@ -12,7 +12,7 @@ const NewArrivalCard = ({ arrival }) => {
           height={300}
           className="mx-auto "
         />
-        <p className="bg-[#F56E07] inline-block p-2 rounded-md font-mochiy font-normal text-sm absolute top-3 left-7">Hot</p>
+        <p className="bg-[#F56E07] inline-block p-2 rounded-md font-mochiy font-normal text-sm absolute top-3 left-12">Hot</p>
         <div className="mx-auto ml-11">
           <h4 className="font-poppins font-semibold text-base text-[#373737] mt-12 mb-2">
             {arrival.title}
